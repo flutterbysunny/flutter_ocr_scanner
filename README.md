@@ -1,16 +1,46 @@
-# flutter_ocr_scanner
+# Flutter OCR Scanner
 
-A new Flutter project.
+A powerful and modern Flutter OCR Scanner package for extracting text from images and live camera streams using on-device OCR.
 
-## Getting Started
+Supports:
+- 📷 Live camera OCR scanning
+- 🖼 Image OCR recognition
+- ⚡ Fast real-time detection
+- 📱 Android & iOS
+- 🔍 Auto text recognition
+- 🎯 High accuracy OCR
+- 🌙 Clean customizable UI
+- 🧠 ML Kit powered
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Real-time OCR scanning
+- Scan text from gallery images
+- Lightweight & fast
+- On-device processing
+- No internet required
+- Easy Flutter integration
+- Modern scanner UI
+- Supports multiline text
+- Custom overlay support
+- Permission handling included
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Screenshots
+
+| Camera OCR | Extracted Text |
+|------------|----------------|
+| Add screenshot here | Add screenshot here |
+
+---
+
+## 🚀 Installation
+
+Add dependency in your `pubspec.yaml`
+
+```yaml
+dependencies:
+  flutter_ocr_scanner: ^1.0.0
